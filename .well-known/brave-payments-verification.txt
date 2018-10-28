@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: finestthingsclub.com
+Token: de17aec9cc28e5b31b6c65ba2d333c1861ea5f0418a131dd63cb2efabf697d26
